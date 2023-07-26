@@ -1,0 +1,23 @@
+#login {
+    background-color: teal;
+    border: none;
+    color: whitesmoke;
+    margin-top: 8px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#login:hover {
+    color: teal;
+    background-color: whitesmoke;
+}
+
+.login__name {
+    margin-right: 15px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.h100 {
+    height: calc(100vh - 80px);
+}
